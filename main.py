@@ -1,6 +1,6 @@
 # Open a file named "example.txt" in write mode ('w') and write to it
 with open("example.txt", "w") as file:
-    file.write("Hello, world!\n")
+    file.write("Testing 1, 2, 3,...\n")
     file.write("This is a new line.")
 
 # Open the file in read mode ('r') and print its content
